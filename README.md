@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Ashis Kumar Dash</h1>
-<h3 align="center">A student of computer science.ce from India</h3>
+<h3 align="center">A student of computer science from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashis28&label=Profile%20views&color=0e75b6&style=flat" alt="ashis28" /> </p>
 
 - 🌱 I’m currently learning **Python , web development , Data science**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for code with **Python**
 
 - 💬 Ask me about **Projects on Python , c++**
 
