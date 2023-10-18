@@ -1,0 +1,40 @@
+#include<iostream>
+using namespace std;
+class A 
+{
+public:
+    void foo() 
+    {
+        cout << "A::foo()" << endl;
+    }
+};
+
+class B : public A 
+{
+public:
+    void foo() 
+    {
+        cout << "B::foo()" << endl;
+    }
+};
+
+class C : public B 
+{
+public:
+    void foo() 
+    {
+        cout << "C::foo()" << endl;
+    }
+};
+
+int main() {
+    A a;
+    B b;
+    C c;
+
+    a.foo();  // Static binding to A::foo()
+    b.foo();  // Static binding to B::foo()
+    c.foo();  // Static binding to C::foo()
+
+    return 0;
+}
